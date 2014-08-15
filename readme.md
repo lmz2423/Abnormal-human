@@ -10,7 +10,7 @@
  <li>引导页使用isScroll.js来实现，顺便能够熟悉一下isScroll插件</li>
 </ul>
 ###兼容性####
-<p>能够ios上以及Android中的主流浏览器，windows系统不考虑在内<有点欠妥>
+<p>能够ios上以及Android中的主流浏览器，windows系统不考虑在内太穷了，没有windows系列手机<有点欠妥>
   支持微信分享到朋友圈。
 </p>
 ###目的###
